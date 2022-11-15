@@ -57,8 +57,9 @@ button {
     width: 75px;
 }
 
-button.btn.btn-info {
+.button-primary {
     background-color: rgb(53, 90, 143);
+    border-color: red;
 }
 
 .glyphicon-time {
@@ -68,6 +69,13 @@ button.btn.btn-info {
 .glyphicon-user {
     font-size: 25px;
 }
+
+.label-success {
+    background-color: rgb(92, 91, 91);
+}
+
+
+
 
 @media all {
     
